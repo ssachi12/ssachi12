@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sachin nnaik
+- 👋 Hi, I’m sachin naik
 - 👀 I’m interested in UI development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
