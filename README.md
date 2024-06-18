@@ -1,6 +1,6 @@
 # Sachin Naik
 
-📍 Mannonda, Shirali, Bhatkal, Uttara Kannada, Shirali Post-581354  
+📍 Bengaluru, Karnataka  
 📞 +917019834252  
 📧 Sachinnaik964@gmail.com  
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a dedicated and motivated individual seeking an entry-level position in software development within the information technology industry. I am eager to contribute my skills and abilities to foster professional growth while being resourceful, innovative, and flexible.
+A dedicated and motivated software developer and a technical lead
 
 ---
 
@@ -33,7 +33,7 @@ I am a dedicated and motivated individual seeking an entry-level position in sof
 
 ## Skills
 
-- Programming Languages: SQL, Core Java, HTML-5, CSS-3, JavaScript, J2EE
+- Programming Languages: SQL, Core Java, HTML-5, CSS-3, JavaScript, J2EE, python 
 - Frameworks and Libraries: Spring Boot, ReactJS
 - Version Control: Git and GitHub
 
